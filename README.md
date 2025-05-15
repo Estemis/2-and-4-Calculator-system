@@ -1,7 +1,3 @@
-# Этот код был написан Estemis
-# Репозироторий Estemis ссылка https://github.com/Estemis?tab=repositories
-
-
 while True:
     print("Это калькулятор двух цифер напиши два числа")
     sc = int(input("Напиши первое число\n"))

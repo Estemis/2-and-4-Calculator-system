@@ -1,4 +1,4 @@
-while True:
+<pre>'''while True:
     print("Это калькулятор двух цифер напиши два числа")
     sc = int(input("Напиши первое число\n"))
     scr  = int(input("Напиши второе число\n"))
@@ -12,4 +12,4 @@ while True:
     elif skr == "4":
         print(sc/scr)
     elif skr == "5":
-        print(sc%scr)
+        print(sc%scr)'''</pre>pre>
